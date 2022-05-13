@@ -44,3 +44,4 @@ The documentation folder contains the project report and the slides used for pre
 2) <a href="https://github.com/AtharvaSharmaSJ/Facenet-clustering/blob/main/documentation/Milestone%201%20slides.pdf">Milestone 1 slides</a> were used with the Milestone 1 presentation.
 3) <a href="https://github.com/AtharvaSharmaSJ/Facenet-clustering/blob/main/documentation/Milestone%203%20slides.pdf">Milestone 3 slides</a> were used with the Milestone 3 recording.
 4) There were no slides used in Milestone 2.
+5) This is the link for the <a href="https://sjsu0-my.sharepoint.com/:f:/g/personal/nishant_yadav_sjsu_edu/EjghoulLKbdFqQ1ZwBnKArwBt0TsbjeXAd2gPcxFM2n5oA?e=bFSRrN">presentation video</a>. Please note that this is shared via SJSU onedrive and can be accessed using .sjsu.edu email only.
