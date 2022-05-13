@@ -24,6 +24,17 @@ Team members :
 
 6) Execute the Facenet_Clustering.ipynb line-by-line and the results would be generated in the end. 
 
+# Steps to replicate the results for Approach 3
+
+1) Download the "C256_Facenet_Clustering.ipynb" notebook and the CS256_Dataset.
+2) Download the pretrained "facenet-keras.h5" model.
+3) Initialize the path variables as mentioned below (the dataset is to be kept in such directory format):
+
+   ALT_PATH = '/content/drive/MyDrive/CS256_Dataset/Football_Images/Images/'  (images are present inside the "Images" folder)
+
+   ALL_PATH = '/content/drive/MyDrive/CS256_Dataset/Football_Images/'    ("Images" folder is present inside the "Football_Images" folder)
+4) Execute the notebook.
+
 -----------------------------------------------------------------
 
 # Documentation.
